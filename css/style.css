@@ -9,6 +9,7 @@
     font-family: sans-serif, monospace;
 }
 
+
  /* unvisited link */
  a:link {
     color: rgb(255, 145, 0);
@@ -35,4 +36,14 @@
 
   ol{
       font-family: sans-serif, monospace,serif;
+  }
+
+  .imagebox{
+      display: grid;
+      height: 100%;
+  }
+  .center-fit{
+      max-width: 100%;
+      max-height: auto;
+      margin: auto;
   }
