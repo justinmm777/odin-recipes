@@ -1,0 +1,38 @@
+.main_heading{
+    color: rgb(15, 161, 39);
+    font-size: 50px;font-family: sans-serif, monospace, serif;
+}
+
+.rHeadings{
+    color: blue;
+    font-size: 35px;
+    font-family: sans-serif, monospace;
+}
+
+ /* unvisited link */
+ a:link {
+    color: rgb(255, 145, 0);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(33, 31, 177);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(64, 143, 90);
+  } 
+
+  ul{
+      color: rgb(37, 85, 219);
+  }
+
+  ol{
+      font-family: sans-serif, monospace,serif;
+  }
